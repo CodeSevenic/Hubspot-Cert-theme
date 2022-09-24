@@ -1,21 +1,21 @@
-[ 
-    {
-      "label": "Accent colour",
-      "name": "accent_colour",
-      "type": "color",
-      "default": {
-        "color": "#000"
-      }
-    },
-    {
-        "label": "Font",
-        "name": "font",
-        "type": "font",
-        "load_external_fonts": true,
-        "default": {
-          "fallback": "sans-serif",
-          "font": "Poppins",
-          "font_set": "GOOGLE"
-        }
-      }
+[
+  {
+    "label": "Accent colour",
+    "name": "accent_colour",
+    "type": "color",
+    "default": {
+      "color": "#000000"
+    }
+  },
+  {
+    "label": "Font",
+    "name": "font",
+    "type": "font",
+    "load_external_fonts": true,
+    "default": {
+      "fallback": "sans-serif",
+      "font": "Poppins",
+      "font_set": "GOOGLE"
+    }
+  }
 ]

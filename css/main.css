@@ -20,7 +20,7 @@ body {
 }
 
 .header, .footer {
-  background-color: #aa98a9;
+  background-color: {{ theme.accent_color.color }};
   padding: 10% 0;
   color: #ffffff;
 }
@@ -40,7 +40,7 @@ body {
 }
 
 .must-head{
-  margin-bottom:20%
+  margin-bottom: 40px;
 }
 
 .quote{
@@ -75,8 +75,9 @@ body {
 }
 
 .container {
-  max-width: 1000px;
+  max-width: 1320px;
   margin: auto;
+  padding: 0 40px;
 }
 
 .align-right{
