@@ -25,6 +25,24 @@ body {
   color: #ffffff;
 }
 
+  .header {
+    background-image: url({{ get_asset_url('/hs-certificate-theme/images/pexels-quang-nguyen-vinh-2132116.jpg') }});
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+  }
+
+  .header::after {
+    content: "";
+    position: absolute;
+    background-color: #000;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
 .header h1 {
   margin: 10% 0;
   margin-bottom: 4%;
