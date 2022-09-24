@@ -36,11 +36,17 @@ body {
   .header::after {
     content: "";
     position: absolute;
-    background-color: {{ theme.accent_color.color }};
+    background-color: {{ theme.trans_color.color }};
+    opacity: calc({{ theme.trans_color.opacity }} / 100);
     top: 0;
     bottom: 0;
     left: 0;
     right: 0;
+}
+
+.container * {
+    position: relative;
+    z-index: 90;
 }
 
 .header h1 {
