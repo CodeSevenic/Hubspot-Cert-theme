@@ -1,0 +1,181 @@
+[ {
+  "id" : "d98de96f-6ad3-701a-ed0e-2f7dbf5db4ad",
+  "name" : "grid_members",
+  "display_width" : null,
+  "label" : "grid members",
+  "required" : false,
+  "locked" : false,
+  "occurrence" : {
+    "min" : 0,
+    "max" : null,
+    "sorting_label_field" : null,
+    "default" : 9
+  },
+  "children" : [ {
+    "id" : "48ef7d11-60e0-1070-fd34-c1a6628c1dac",
+    "name" : "image_field",
+    "display_width" : null,
+    "label" : "Image",
+    "required" : false,
+    "locked" : false,
+    "responsive" : true,
+    "resizable" : true,
+    "show_loading" : false,
+    "type" : "image",
+    "default" : {
+      "size_type" : "auto",
+      "src" : "https://f.hubspotusercontent30.net/hubfs/4385489/lukas-w-e3mu-MTj7Xk-unsplash.jpg",
+      "alt" : "lukas-w-e3mu-MTj7Xk-unsplash",
+      "loading" : "lazy",
+      "width" : 1920,
+      "height" : 1280,
+      "max_width" : 1920,
+      "max_height" : 1280
+    }
+  }, {
+    "id" : "55e75f2e-bd48-7d2d-8635-321d90f73023",
+    "name" : "name_field",
+    "display_width" : null,
+    "label" : "Name",
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "Name"
+  }, {
+    "id" : "dc843c3a-4dde-30a5-7046-5383a0ff47f4",
+    "name" : "position",
+    "display_width" : null,
+    "label" : "Position",
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "CEO"
+  } ],
+  "tab" : "CONTENT",
+  "expanded" : false,
+  "type" : "group",
+  "default" : [ {
+    "image_field" : {
+      "size_type" : "auto",
+      "src" : "https://f.hubspotusercontent30.net/hubfs/4385489/lukas-w-e3mu-MTj7Xk-unsplash.jpg",
+      "alt" : "lukas-w-e3mu-MTj7Xk-unsplash",
+      "loading" : "lazy",
+      "width" : 1920,
+      "height" : 1280,
+      "max_width" : 1920,
+      "max_height" : 1280
+    },
+    "name_field" : "Name",
+    "position" : "CEO"
+  }, {
+    "image_field" : {
+      "size_type" : "auto",
+      "src" : "https://f.hubspotusercontent30.net/hubfs/4385489/lukas-w-e3mu-MTj7Xk-unsplash.jpg",
+      "alt" : "lukas-w-e3mu-MTj7Xk-unsplash",
+      "loading" : "lazy",
+      "width" : 1920,
+      "height" : 1280,
+      "max_width" : 1920,
+      "max_height" : 1280
+    },
+    "name_field" : "Name",
+    "position" : "CEO"
+  }, {
+    "image_field" : {
+      "size_type" : "auto",
+      "src" : "https://f.hubspotusercontent30.net/hubfs/4385489/lukas-w-e3mu-MTj7Xk-unsplash.jpg",
+      "alt" : "lukas-w-e3mu-MTj7Xk-unsplash",
+      "loading" : "lazy",
+      "width" : 1920,
+      "height" : 1280,
+      "max_width" : 1920,
+      "max_height" : 1280
+    },
+    "name_field" : "Name",
+    "position" : "CEO"
+  }, {
+    "image_field" : {
+      "size_type" : "auto",
+      "src" : "https://f.hubspotusercontent30.net/hubfs/4385489/lukas-w-e3mu-MTj7Xk-unsplash.jpg",
+      "alt" : "lukas-w-e3mu-MTj7Xk-unsplash",
+      "loading" : "lazy",
+      "width" : 1920,
+      "height" : 1280,
+      "max_width" : 1920,
+      "max_height" : 1280
+    },
+    "name_field" : "Name",
+    "position" : "CEO"
+  }, {
+    "image_field" : {
+      "size_type" : "auto",
+      "src" : "https://f.hubspotusercontent30.net/hubfs/4385489/lukas-w-e3mu-MTj7Xk-unsplash.jpg",
+      "alt" : "lukas-w-e3mu-MTj7Xk-unsplash",
+      "loading" : "lazy",
+      "width" : 1920,
+      "height" : 1280,
+      "max_width" : 1920,
+      "max_height" : 1280
+    },
+    "name_field" : "Name",
+    "position" : "CEO"
+  }, {
+    "image_field" : {
+      "size_type" : "auto",
+      "src" : "https://f.hubspotusercontent30.net/hubfs/4385489/lukas-w-e3mu-MTj7Xk-unsplash.jpg",
+      "alt" : "lukas-w-e3mu-MTj7Xk-unsplash",
+      "loading" : "lazy",
+      "width" : 1920,
+      "height" : 1280,
+      "max_width" : 1920,
+      "max_height" : 1280
+    },
+    "name_field" : "Name",
+    "position" : "CEO"
+  }, {
+    "image_field" : {
+      "size_type" : "auto",
+      "src" : "https://f.hubspotusercontent30.net/hubfs/4385489/lukas-w-e3mu-MTj7Xk-unsplash.jpg",
+      "alt" : "lukas-w-e3mu-MTj7Xk-unsplash",
+      "loading" : "lazy",
+      "width" : 1920,
+      "height" : 1280,
+      "max_width" : 1920,
+      "max_height" : 1280
+    },
+    "name_field" : "Name",
+    "position" : "CEO"
+  }, {
+    "image_field" : {
+      "size_type" : "auto",
+      "src" : "https://f.hubspotusercontent30.net/hubfs/4385489/lukas-w-e3mu-MTj7Xk-unsplash.jpg",
+      "alt" : "lukas-w-e3mu-MTj7Xk-unsplash",
+      "loading" : "lazy",
+      "width" : 1920,
+      "height" : 1280,
+      "max_width" : 1920,
+      "max_height" : 1280
+    },
+    "name_field" : "Name",
+    "position" : "CEO"
+  }, {
+    "image_field" : {
+      "size_type" : "auto",
+      "src" : "https://f.hubspotusercontent30.net/hubfs/4385489/lukas-w-e3mu-MTj7Xk-unsplash.jpg",
+      "alt" : "lukas-w-e3mu-MTj7Xk-unsplash",
+      "loading" : "lazy",
+      "width" : 1920,
+      "height" : 1280,
+      "max_width" : 1920,
+      "max_height" : 1280
+    },
+    "name_field" : "Name",
+    "position" : "CEO"
+  } ]
+} ]

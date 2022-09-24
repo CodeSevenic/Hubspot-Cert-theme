@@ -1,0 +1,12 @@
+defaultPortal: CodeSevenic
+portals:
+  - name: CodeSevenic
+    portalId: 25522688
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CNWZmva2MBIJAA0AAAAA4A0DGIDklQwgzOzCDSju6QwyFA1e3mGUYH7tlCYyVFFD6hkcXo9ZOjcAAARBAAAAeAAAAAAAAAAAAAAAAAAAAAQAAMAHAP7_MTwAAAYAAABgAAAAAAAAAAAAAAAAADACQhTy5z_bEpjOjADhePr18bbetxXrgkoDZXUxUgBaAA
+        expiresAt: '2022-09-24T09:14:09.496Z'
+    personalAccessKey: >-
+      CiRldTEtN2FjMi04ZjQ3LTQ0NjAtYjk2MS1iYzE1ZTdjNGNmYTYQgOSVDBjM7MINKhkABeaRgnT2uVni73e5gFnF2Cz9PMMRmA51SgNldTE
